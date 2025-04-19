@@ -25,6 +25,7 @@ Tech Stack -
 Backend - Python
 Frontend - React, JS, HTML
 
+-------------------------------------------------------------
 
 📘 Problem Statement 2:
 Google Sheets Sync — Continuous API Integration
