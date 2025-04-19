@@ -1,5 +1,5 @@
 # Likwid.Ai-Internship-Challenge
-Full Stack Developer Challenge: ERP Module for Manufacturing
+Full Stack Intern Challenge: ERP Module for Manufacturing
 
 
 📘 Problem Statement 1:
